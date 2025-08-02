@@ -68,3 +68,11 @@ Welcome to my GitHub portfolio. Here are some of my personal and forked projects
 ---
 
 > _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
+
+> _“First, solve the problem. Then, write the code.” – John Johnson_
+
+> _“Before software can be reusable it first has to be usable.” – Ralph Johnson_
+
+> _“Design is not just what it looks like and feels like. Design is how it works.” – Steve Jobs_
+
+> *“AI is going to eat software.” – Jensen Huang (CEO, NVIDIA)*
