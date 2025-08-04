@@ -10,7 +10,7 @@ but does NOT show up in preview.
 
 ## 📘 C & C++
 
-### Personal Projects
+#### Personal Projects
 
 - [Matrix Calculator CLI](https://github.com/your-username/matrix-calculator-cpp)  
   Command-line matrix calculator supporting multiple operations.
@@ -18,7 +18,7 @@ but does NOT show up in preview.
 - [Random Number Game](https://github.com/your-username/random-game-cpp)  
   Terminal-based game using basic loops and conditionals.
 
-### Forked
+#### Forked
 
 - [Data Structures Playground](https://github.com/your-username/fork-dsa-lab)  
   Forked repo with a clean layout of classic DSA code samples.
@@ -30,7 +30,7 @@ but does NOT show up in preview.
 
 ## 🧾 Verilog
 
-### Personal Projects
+#### Personal Projects
 <!--
 - [Modular ALU](https://github.com/your-username/alu-verilog)  
   Multi-op Arithmetic Logic Unit with output via 16 LEDs.
@@ -38,7 +38,7 @@ but does NOT show up in preview.
 - [Sensor-Controlled LEDs](https://github.com/your-username/pmod-sensor-led)  
   LED pattern changes with tilt using Digilent Pmod Accelerometer.
 -->
-### Forked
+#### Forked
 <!--
 - [FPGA Design Patterns](https://github.com/your-username/fork-fpga-patterns)  
   A collection of reusable Verilog modules and design templates.
@@ -57,7 +57,7 @@ but does NOT show up in preview.
 - [Computer Architecture Formula Sheet](https://example.com/ca-cheatsheet)  
   Quick-glance sheet of key formulas & diagrams.
 
-### Forked
+#### Forked
 - 📐 [Discrete Math Solution Manual (Fork)](https://github.com/your-username/discrete-math-solutions)  
   Step-by-step LaTeX solutions to Discrete Mathematics exercises (e.g., Rosen's book).
   
@@ -71,14 +71,14 @@ but does NOT show up in preview.
 
 ## ⚡ Gists
 
-### 📘 C & C++
+#### 📘 C & C++
 - [BMP Pixel Reader](https://gist.github.com/your-username/ccddee1122)  
   Tiny snippet to read raw BMP headers and pixel data.
 
 - [CLI Stopwatch](https://gist.github.com/your-username/aabbcc3344)  
   Simple command-line timer using `<chrono>`.
 
-### 🧾 Verilog
+#### 🧾 Verilog
 - [Clock Tick Generator](https://gist.github.com/your-username/ffeedd9988)  
   Generates a slower tick from system clock (parameterizable).
 
@@ -86,7 +86,7 @@ but does NOT show up in preview.
   Minimal implementation using D-Flip-Flop logic.
   
 <!--
-### 🐍 Python
+#### 🐍 Python
 - [Auto Git Initializer](https://gist.github.com/your-username/1122aabbcc)  
   Script to `git init`, add README, and first commit in one go.
 
