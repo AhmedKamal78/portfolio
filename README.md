@@ -3,18 +3,12 @@
 Welcome to my GitHub portfolio. Here are some of my personal and forked projects, organized by category.
 
 ---
+<!-- 
+This section stays in the file
+but does NOT show up in preview.
+-->
 
-## 🚀 Featured Projects
-
-- [Knight Rider LEDs](https://github.com/your-username/knight-rider-fpga)  
-  Verilog project simulating Knight Rider LED effect on Basys3.
-
-- [Digital XOR Lock](https://github.com/your-username/digital-xor-lock)  
-  8-bit XOR-based logic lock using switches and LEDs.
-
----
-
-## ⚙️ C & C++
+## 📘 C & C++
 
 ### Personal Projects
 
@@ -34,31 +28,71 @@ Welcome to my GitHub portfolio. Here are some of my personal and forked projects
 
 ---
 
-## 🧪 Verilog
+## 🧾 Verilog
 
 ### Personal Projects
-
+<!--
 - [Modular ALU](https://github.com/your-username/alu-verilog)  
   Multi-op Arithmetic Logic Unit with output via 16 LEDs.
 
 - [Sensor-Controlled LEDs](https://github.com/your-username/pmod-sensor-led)  
   LED pattern changes with tilt using Digilent Pmod Accelerometer.
-
+-->
 ### Forked
-
+<!--
 - [FPGA Design Patterns](https://github.com/your-username/fork-fpga-patterns)  
   A collection of reusable Verilog modules and design templates.
 
 - [Clock Divider Demos](https://github.com/your-username/fork-verilog-clocks)  
   Forked examples showing precise clock manipulation techniques.
+-->
+---
+
+## 📚 Academics (Notes & Examiner Solutions)
+
+#### Personal
+- [Digital Logic Midterm Solutions](https://example.com/dl-midterm-sol)  
+  Handwritten numerical + MCQ answers arranged topic-wise.
+
+- [Computer Architecture Formula Sheet](https://example.com/ca-cheatsheet)  
+  Quick-glance sheet of key formulas & diagrams.
+
+### Forked
+- 📐 [Discrete Math Solution Manual (Fork)](https://github.com/your-username/discrete-math-solutions)  
+  Step-by-step LaTeX solutions to Discrete Mathematics exercises (e.g., Rosen's book).
+  
+- [VLSI Design Notes (Fork)](https://github.com/your-username/fork-vlsi-notes)  
+  Forked master notes with chapter-wise derivations.
+
+- [Microprocessors Past Papers (Fork)](https://github.com/your-username/fork-8086-exams)  
+  Solved question bank arranged by year and difficulty.
 
 ---
 
-## 📐 Mathematics
+## ⚡ Gists
 
-- [Discrete Math Solution Manual](https://github.com/your-username/discrete-math-solutions)  
-  Step-by-step LaTeX solutions to Discrete Mathematics exercises (e.g., Rosen's book).
+### 📘 C & C++
+- [BMP Pixel Reader](https://gist.github.com/your-username/ccddee1122)  
+  Tiny snippet to read raw BMP headers and pixel data.
 
+- [CLI Stopwatch](https://gist.github.com/your-username/aabbcc3344)  
+  Simple command-line timer using `<chrono>`.
+
+### 🧾 Verilog
+- [Clock Tick Generator](https://gist.github.com/your-username/ffeedd9988)  
+  Generates a slower tick from system clock (parameterizable).
+
+- [T-Flip-Flop](https://gist.github.com/your-username/8899aaccdd)  
+  Minimal implementation using D-Flip-Flop logic.
+  
+<!--
+### 🐍 Python
+- [Auto Git Initializer](https://gist.github.com/your-username/1122aabbcc)  
+  Script to `git init`, add README, and first commit in one go.
+
+- [CSV Stats Calculator](https://gist.github.com/your-username/5566ddeeff)  
+  One-file utility to compute basic stats from CSV columns.
+-->
 ---
 
 ## Reach Me
@@ -68,11 +102,12 @@ Welcome to my GitHub portfolio. Here are some of my personal and forked projects
 ---
 
 > _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
-
+<!--
 > _“First, solve the problem. Then, write the code.” – John Johnson_
 
-> _“Before software can be reusable it first has to be usable.” – Ralph Johnson_
+> _“Before software can be reusable, it first has to be usable.” – Ralph Johnson_
 
 > _“Design is not just what it looks like and feels like. Design is how it works.” – Steve Jobs_
 
 > *“AI is going to eat software.” – Jensen Huang (CEO, NVIDIA)*
+-->
