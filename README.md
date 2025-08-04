@@ -18,7 +18,7 @@ but does NOT show up in preview.
 - [Random Number Game](https://github.com/your-username/random-game-cpp)  
   Terminal-based game using basic loops and conditionals.
 
-#### Forked
+#### 🍴 Forked
 
 - [Data Structures Playground](https://github.com/your-username/fork-dsa-lab)  
   Forked repo with a clean layout of classic DSA code samples.
@@ -38,7 +38,7 @@ but does NOT show up in preview.
 - [Sensor-Controlled LEDs](https://github.com/your-username/pmod-sensor-led)  
   LED pattern changes with tilt using Digilent Pmod Accelerometer.
 -->
-#### Forked
+#### 🍴 Forked
 <!--
 - [FPGA Design Patterns](https://github.com/your-username/fork-fpga-patterns)  
   A collection of reusable Verilog modules and design templates.
@@ -57,7 +57,7 @@ but does NOT show up in preview.
 - [Computer Architecture Formula Sheet](https://example.com/ca-cheatsheet)  
   Quick-glance sheet of key formulas & diagrams.
 
-#### Forked
+#### 🍴 Forked
 - 📐 [Discrete Math Solution Manual (Fork)](https://github.com/your-username/discrete-math-solutions)  
   Step-by-step LaTeX solutions to Discrete Mathematics exercises (e.g., Rosen's book).
   
