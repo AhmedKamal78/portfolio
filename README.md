@@ -75,12 +75,15 @@ but does NOT show up in preview.
 ## ⚡ Gists
 
 #### 📘 C & C++
+- [Inline Assembly](https://gist.github.com/AhmedKamal78/fa8d0ac44bb1463f14b4b29709483702)  
+  Demonstrates advanced usage of inline assembly within C++ for low-level optimization and control.
+<!-- 
 - [BMP Pixel Reader](https://gist.github.com/your-username/ccddee1122)  
   Tiny snippet to read raw BMP headers and pixel data.
 
 - [CLI Stopwatch](https://gist.github.com/your-username/aabbcc3344)  
   Simple command-line timer using `<chrono>`.
-
+--> 
 #### 🧾 Verilog
 - [Clock Tick Generator](https://gist.github.com/your-username/ffeedd9988)  
   Generates a slower tick from system clock (parameterizable).
