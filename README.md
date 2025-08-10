@@ -75,15 +75,8 @@ but does NOT show up in preview.
 ## ⚡ Gists (Personal)
 
 #### 📘 C & C++
-- [Inline Assembly](https://gist.github.com/AhmedKamal78/fa8d0ac44bb1463f14b4b29709483702)  
-  Demonstrates advanced usage of inline assembly within C++ for low-level optimization and control.
-<!-- 
-- [BMP Pixel Reader](https://gist.github.com/your-username/ccddee1122)  
-  Tiny snippet to read raw BMP headers and pixel data.
+- [Inline Assembly](https://gist.github.com/AhmedKamal78/fa8d0ac44bb1463f14b4b29709483702) — Demonstrates advanced usage of inline assembly within C++ for low-level optimization and control.
 
-- [CLI Stopwatch](https://gist.github.com/your-username/aabbcc3344)  
-  Simple command-line timer using `<chrono>`.
---> 
 #### 🧾 Verilog
 
 - [T-Flip-Flop](https://gist.github.com/your-username/8899aaccdd) — Minimal implementation using D-Flip-Flop logic.
@@ -92,6 +85,9 @@ but does NOT show up in preview.
 
 
 ## ⚡ Gists (External)
+
+#### 📘 C & C++
+- [Simple Class](https://gist.github.com/JamesCollerton/a1c0931a05db9e2b3a9e6d37d237cd65) — Simple class implementation in C++
 
 ---
 
