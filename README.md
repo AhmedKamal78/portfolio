@@ -72,7 +72,7 @@ but does NOT show up in preview.
 
 ---
 
-## ⚡ Gists
+## ⚡ Gists (Personal)
 
 #### 📘 C & C++
 - [Inline Assembly](https://gist.github.com/AhmedKamal78/fa8d0ac44bb1463f14b4b29709483702)  
@@ -85,20 +85,14 @@ but does NOT show up in preview.
   Simple command-line timer using `<chrono>`.
 --> 
 #### 🧾 Verilog
-- [Clock Tick Generator](https://gist.github.com/your-username/ffeedd9988)  
-  Generates a slower tick from system clock (parameterizable).
 
-- [T-Flip-Flop](https://gist.github.com/your-username/8899aaccdd)  
-  Minimal implementation using D-Flip-Flop logic.
-  
-<!--
-#### 🐍 Python
-- [Auto Git Initializer](https://gist.github.com/your-username/1122aabbcc)  
-  Script to `git init`, add README, and first commit in one go.
+- [T-Flip-Flop](https://gist.github.com/your-username/8899aaccdd) — Minimal implementation using D-Flip-Flop logic.
 
-- [CSV Stats Calculator](https://gist.github.com/your-username/5566ddeeff)  
-  One-file utility to compute basic stats from CSV columns.
--->
+- [Clock Tick Generator](https://gist.github.com/your-username/ffeedd9988) — Generates a slower tick from system clock (parameterizable).
+
+
+## ⚡ Gists (External)
+
 ---
 
 ## Reach Me
