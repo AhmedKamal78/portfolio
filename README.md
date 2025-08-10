@@ -12,6 +12,9 @@ but does NOT show up in preview.
 
 #### Personal Projects
 
+- [Inline Assembly](https://gist.github.com/fa8d0ac44bb1463f14b4b29709483702)  
+  Demonstrates advanced usage of inline assembly within C++ for low-level optimization and control.
+
 - [Matrix Calculator CLI](https://github.com/your-username/matrix-calculator-cpp)  
   Command-line matrix calculator supporting multiple operations.
 
